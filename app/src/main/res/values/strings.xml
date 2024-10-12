@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P1</string>
+    <string name="title_activity_screen2">Screen2Activity</string>
+    <string name="title_activity_screen1">Screen1Activity</string>
+</resources>
